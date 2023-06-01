@@ -22,6 +22,6 @@ I have been pursuing my master's degree in Data Science in AGH University of Sci
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mwlochDS"><img src="https://github-readme-stats.vercel.app/api?username=mwlochDS&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="mwlochDS's GitHub stats" /></a>
+<a href="http://www.github.com/mwlochDS"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mwlochDS&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="mwlochDS's GitHub stats" /></a>
 <a href="http://www.github.com/mwlochDS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mwlochDS&stroke=ffffff&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/mwlochDS" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mwlochDS&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
