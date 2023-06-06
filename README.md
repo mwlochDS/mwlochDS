@@ -8,6 +8,7 @@ I have been pursuing my master's degree in Data Science in AGH University of Sci
 
 * 🌍  I'm based in Cracow, Poland 🇵🇱 
 * ✉️  You can contact me at [miloszwloch1@gmail.com](mailto:miloszwloch1@gmail.com)
+* 🚀  I'm currently working on [Chinese-English dictionary mobile app with handwritten Chinese characters real-time recognition functionality]
 * 🤝  I'm open to collaborating on regarding my interests' projects 
 
 ### Skills  
